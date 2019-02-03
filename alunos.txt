@@ -1,0 +1,16 @@
+Joao;A;Dolores;1809
+Joao;A;Silvia;8760
+Joao;A;Andre;4892
+Joao;A;Ana;5529
+Joao;A;Maria;6387
+Joao;A;Rute;7664
+Joao;B;Camila;2216
+Joao;B;Silvia;8760
+Joao;B;Andre;4892
+Joao;B;Maria;6387
+Joao;B;Fernando;4574
+Joao;C;Domenico;1020
+Joao;C;Rute;7664
+Joao;C;Daniel;4892
+Joao;C;Mauricio;3746
+Joao;C;Andre;4892

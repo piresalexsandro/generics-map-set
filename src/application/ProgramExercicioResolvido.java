@@ -22,7 +22,8 @@ public class ProgramExercicioResolvido {
 		    String path = sc.next();
 			try(BufferedReader br = new BufferedReader(new FileReader(path))){
 				
-				Set<LogEntry> set = new HashSet<>();
+				Set<LogEntry> set = new HashSet<>(); //criando conjunto
+				
 				String line = br.readLine();
 				
 				while(line != null) {
